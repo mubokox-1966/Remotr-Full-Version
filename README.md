@@ -255,4 +255,4 @@ This repository serves as the official landing page for Remotr. The software is 
 **Get the most recent version of Remotr today!**
 
 ---
-**Last updated:** 2026-10-07 22:46:30 UTC
+**Last updated:** 2026-10-08 02:32:50 UTC
